@@ -9,7 +9,7 @@
     <groupId>org.hibernate.tutorials</groupId>
     <artifactId>hibernate-tutorial</artifactId>
     <packaging>war</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>First Hibernate Tutorial</name>
 
     <build>
